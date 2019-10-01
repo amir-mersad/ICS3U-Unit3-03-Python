@@ -2,7 +2,7 @@
 
 # Created by Amir Mersad
 # Created on September 2019
-# This program checks if there is over there 30 students
+# This program checks if the entered number is the same as the random number
 
 import random
 
